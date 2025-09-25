@@ -1,2 +1,11 @@
-# G5-Prosjektpakke
+## G5-Prosjektpakke
 IS-118 Innlevering 26.9.2025
+
+# Oppstartspakke for prosjektleder
+ 
+Denne rapporten gir anbefalinger og verktøy til prosjektleder Erling, som skal lede et tverrfaglig og tidsavgrenset prosjekt for å utvikle en digital medborgerportal. Målet er å støtte oppstartsfasen og sikre et godt samarbeid i prosjektgruppen.
+
+Å sette sammen et effektivt prosjektteam krever mer enn bare faglig kompetanse. I et tverrfaglig og et tidsbegrenset prosjekt som utviklingen i en medborgportal, er det avgjørende å balansere faglig mangfold med sosial og demografisk likhet for å bygge tillit og samarbeid tidlig. Deling av rolle er noe som skal skje tidlig i prosessen av teamroller. Erling må dele ut roller til fagpersonene slik at de kommer i en rolle som passer fagfeltet til hver enkelt person. Når man deler opp i roller handler det ikke bare om struktur med også nødvendige perspektiver og arbeidsformer blir ivaretatt. Hvis man bare samler mange av de samme type fagfolk, risikerer man at ulike ting kan bli oversett. Et eksempel på hva som kan skje er hvis man bare samler fagfolk til produksjon så får man kanskje en fungerende medborgerportal, men den vil ikke ha god brukervennlighet eller politisk forankring. 
+
+Når rollene er fordelt vil teamet vite hva som forventes av hver enkeltperson og rollen de har. Dette kan redusere overlappinger og konflikter. Det vil også bygge på styrkene til personene slik at de blir brukt til det de har kompetanse i. Faglig mangfold er dermed veldig viktig for at Erling skal kunne utføre prosjektet sitt til hans beste evne. Han kan også se etter små ting i enkeltpersonene som tenkemåte. Hvis du har ulike tenkemåter kan du få meninger fra ulike perspektiver som kan hjelpe med fremgangen av prosjektet.
+For stor forskjell er heller ikke bra, hvis teamet har store forskjeller kan det gjøre at tillit kan bli vanskelig å bygge. Derfor er det noen fellesnevnere mellom teamet som kan gjøre det å bygge tillit enklere. Det trengs kanskje ikke identiske bakgrunner, men at de overlapper på noen steder. Det kan være felles mål, like i alderen, utdanningsnivå eller arbeidserfaring. Det er jo slik at hvis du har en fagperson som har kjempemye erfaring i UX design så vil han kanskje slite med å gi tillit til IT hvis den nettopp har kommet ut av skolen.                   Erling må derfor vurdere de personlige egenskapene til de han vil ha i teamet. Han burde sørge for en balanse i alder og kjønn. Det vil bidra til bedre representasjon og ulike perspektiver som kan hjelpe prosjektet.
